@@ -2,7 +2,7 @@
 
 This repository contains material from [MLHEP 2015](http://hse.ru/mlhep2015). 
 
-MLHEP stays for Summer School in High Energy Physics, held in St. Petersburg in 2015.
+MLHEP stays for Summer School on Machine Learning in High Energy Physics, held in St. Petersburg in August 2015.
 
 Summer school lasted for 4 days, 2 simultaneous tracks (beginner and advanced), 8 lectures and 8 seminars within each track.
 
